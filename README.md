@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💬 Ask me about: Neuroscience, Mathematics, Physics, Machine Learning, Neural Networks, CompSci. 
+- 📫 How to reach me: [jantinebroek.me](http://jantinebroek.me)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: A passion for the love of learning.
