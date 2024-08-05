@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-[![Jantine A.C. Broek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jan10e&count_private=trueshow_icons=true&theme=dracula)](https://github.com/Jan10e/github-readme-stats)
+- 💬 Ask me about: Computational Neuroscience, Machine Learning, Neural Networks, Mathematics and Physics. 
+- 📫 How to reach me: [jantinebroek.me](http://jantinebroek.me)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: A passion for the love of learning.
+
+<img src="metrics-base.svg" ></img>
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jan10e&langs_count=8&count_private=trueshow_icons=true&theme=dracula)](https://github.com/Jan10e/github-readme-stats) -->
@@ -23,7 +28,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 Ask me about: Neuroscience, Mathematics, Physics, Machine Learning, Neural Networks, CompSci. 
-- 📫 How to reach me: [jantinebroek.me](http://jantinebroek.me)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: A passion for the love of learning.
+
