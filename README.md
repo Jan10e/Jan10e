@@ -3,7 +3,7 @@
 - 💬 Ask me about: Computational Neuroscience, Machine Learning, Neural Networks, Mathematics and Physics. 
 - 📫 How to reach me: [jantinebroek.me](http://jantinebroek.me)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: A passion for the love of learning.
+- ⚡ Fun fact: A passion for learning.
 
 <img src="metrics-base.svg" ></img>
 
