@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about: Computational Neuroscience, Machine Learning, Neural Networks, Mathematics and Physics. 
+- 💬 Ask me about: Computational Neuroscience, Machine Learning, Neural Networks (Biological and DeepNN), Mathematics, Physics, Biophysics, BioTech, MedTech. 
 - 📫 How to reach me: [jantinebroek.me](http://jantinebroek.me)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: A passion for learning.
